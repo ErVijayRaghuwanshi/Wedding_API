@@ -6,7 +6,9 @@ from fastapi import FastAPI
 from starlette.responses import FileResponse
 import os
 from hypercorn import Config as HyperConfig, run
+from deta import Drive
 
+files = Drive("files")
 
 app = FastAPI(
     title="Custom invitation card for Uttam's wedding",

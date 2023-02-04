@@ -1,0 +1,1 @@
+{"id":"a3116ec7-e41a-4dfd-90ee-4ca422c6cdd9","space":43503,"runtime":"python3.9","name":"Wedding_API","path":"gdd3nz","project":"d049v76f","account":"144798365827","region":"ap-south-1","deps":["fastapi==0.85.0","hypercorn==0.13.2","PyPDF2==3.0.1","reportlab==3.6.12","starlette==0.20.4","deta","python-multipart"],"envs":null,"public":true,"log_level":"off","cron":""}
